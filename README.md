@@ -29,6 +29,8 @@ pytime.date(2016, 5, 8)
 pytime.easter(1999)
 
 pytime.days_range('2015-5-17', '2015-5-23')
+
+pyyimr.count('2015-5-17 23:23:23', pytime.tomorror())
 ```
 
 ```sh
